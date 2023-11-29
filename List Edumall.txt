@@ -25,3 +25,6 @@ Software Ideas Modeller
 Sql work beach 
 X- minel
 Win SCP/ Flash FXP
+
+
+-- sửa file List Edumall.txt
